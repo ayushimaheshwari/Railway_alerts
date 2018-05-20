@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "125600101179",
+    "firebase_url": "https://railwayalert-2dae7.firebaseio.com",
+    "project_id": "railwayalert-2dae7",
+    "storage_bucket": "railwayalert-2dae7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:125600101179:android:5acbb48d470e490f",
+        "android_client_info": {
+          "package_name": "com.example.ayushi.railway_alerts"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "125600101179-435v825sfqh73kqk2973ptco5fjet25t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRkC2t8gZ7hsmlGYANCEtI4GQ4nJlq-wk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
